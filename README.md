@@ -2,8 +2,6 @@
 This is the code repository for [Mastering Angular 2 Components](https://www.packtpub.com/web-development/mastering-angular-2-components?utm_source=github&utm_medium=repository&utm_campaign=9781785884641), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Through this book, you will learn how to use Angular 2 and its component-based architecture in order to develop modern user interfaces. A new holistic way of thinking about UI development will be established throughout this book, and you will discover the power of Angular 2 components through many examples. This book is based on Release Candidate 1(RC1) of Angular 2.
-
-
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
